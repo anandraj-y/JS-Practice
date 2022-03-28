@@ -6,4 +6,4 @@ Array.prototype.polyfilter = function(callback, context) {
         }
     } 
     return output;
-}
+};
